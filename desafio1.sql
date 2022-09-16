@@ -86,12 +86,12 @@ DROP DATABASE IF EXISTS SpotifyClone;
 
   INSERT INTO SpotifyClone.albuns (album_nome, ano_de_lancamento, artista_id)
   VALUES 
-    ('Renaissence', '2022', 1),
+    ('Renaissance', '2022', 1),
     ('Jazz', '1978', 2),
     ('Hot Space', '1982', 2),
     ('Falso Brilhante', '1988', 3),
     ('Vento de Maio', '2001', 3),
-    ('QVVFJA?', '2003', 4),
+    ('QVVJFA?', '2003', 4),
     ('Somewhere Far Beyond', '2007', 5),
     ('I Put A Spell On You', '2012', 6);
 
